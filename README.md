@@ -1,4 +1,4 @@
-# PDF Editor Pro
+# PDF Editor 
 
 A professional, modular PDF editor built with React that allows users to view, annotate, and export PDF documents with various drawing tools.
 
